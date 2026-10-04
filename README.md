@@ -1,80 +1,90 @@
 <div align="center">
 
-# Hi there, I'm Sk Masud Rahaman 👋
-### Cybersecurity & AI Systems Architect | Co-Founder & CTO @ [Nox Intelligence](https://noxassistant.com)
+# Sk Masud Rahaman
+### Founder & Principal AI Systems Architect • [Falcon Intelligence](https://github.com/SkMasud18)
+*Architect of [NoxAssistant.com](https://noxassistant.com) — Sovereign Multi-Modal Cognitive Intelligence*
 
-[![Website](https://img.shields.io/badge/Platform-NoxAssistant.com-f59e0b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://noxassistant.com)
+[![Website](https://img.shields.io/badge/Platform-NoxAssistant.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noxassistant.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Falcon_Intelligence-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/SkMasud58)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI_&_PyTorch-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![CUDA](https://img.shields.io/badge/Hardware-NVIDIA_CUDA_Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
+[![GitHub](https://img.shields.io/badge/GitHub-SkMasud18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkMasud18)
+[![Architecture](https://img.shields.io/badge/Focus-Sovereign_AI_Systems-orange?style=for-the-badge)](https://github.com/SkMasud18)
 
 <p align="center">
-  <i>"Architecting sovereign autonomous intelligence, low-latency cognitive infrastructure, and privacy-first multi-agent systems."</i>
+  Designing sovereign, high-throughput distributed AI backends, hardware-accelerated speech pipelines, and test-time compute reasoning engines.
 </p>
-
----
 
 </div>
 
-## 🌌 Architectural Philosophy
+---
 
-I specialize in bridging the gap between **raw cognitive AI models** and **hardened, sub-second production infrastructure**. My work spans the entire AI lifecycle:
-* **High-Throughput Distributed Backends:** Asynchronous event loops, SSE token streaming, memory pooling, and sliding-window rate limiters.
-* **Low-Latency Audio Intelligence:** Real-time CUDA-accelerated Whisper Turbo transcription (<800ms TTFT) with native multilingual script preservation.
-* **Deep Autonomous Reasoning:** Multi-tier dynamic compute allocation, test-time reasoning verification, and interactive Canvas sandbox environments.
-* **Zero-Leakage Privacy Enclaves:** Sovereign multi-agent architectures where user context, files, and identity remain mathematically isolated.
+## 🏛️ The Engineering Evolution of Nox Intelligence
+
+From deterministic rule-based OS automation to a sovereign cognitive foundation model.
+
+```mermaid
+graph TD
+    Current["🔥 CURRENT (2026 - Present)<br/><b>Nox LLM Alpha Gen 1</b><br/><i>Deep Reasoning, MCTS Test-Time Compute & Interactive Canvas</i>"]
+    Server["⚡ (2025 - 2026)<br/><b>Nox Alpha Server</b><br/><i>Sovereign High-Throughput Gateway, CUDA Whisper Turbo & WebRTC AirDrop</i>"]
+    Core["🌐 (2024 - 2025)<br/><b>Nox Core (Gemini Bridge)</b><br/><i>Cloud-Connected Multi-Turn Conversational Memory</i>"]
+    Jarvis["🎙️ (2023 - 2024)<br/><b>Jarvis Voice Automation</b><br/><i>Deterministic Voice Controller & Local Desktop Hooks</i>"]
+
+    Current --> Server
+    Server --> Core
+    Core --> Jarvis
+```
 
 ---
 
-## 🚀 The AI Evolution: 4 Milestone Projects
+## 🚀 Flagship Projects & Engineering Milestones (Recent ➔ Genesis)
 
-Here is the engineering trajectory that led to the creation of **Nox Intelligence**:
+### 1️⃣ [Nox LLM Alpha Gen 1: Sovereign Deep Reasoning](https://github.com/SkMasud18/Nox-LLM-Alpha-Gen-1) *(Active / Flagship)*
+> **The Apex Cognitive Brain (2026)** — Frontier-class foundation architecture with dynamic Test-Time Compute (TTC) scaling, Monte-Carlo Tree Search (MCTS) reasoning trajectory exploration, formal mathematical invariant verification, and interactive split-pane Canvas artifacts.
+> * **Tech:** PyTorch, FlashAttention-3, Multi-Head Latent Attention (MLA), SwiGLU, Invariant Verifiers, Canvas Sandbox.
+> * **Live Model Card:** [Hugging Face / SkMasud58/Nox-LLM-Alpha-Gen-1](https://huggingface.co/SkMasud58/Nox-LLM-Alpha-Gen-1)
 
-```mermaid
-timeline
-    title Evolution of Nox Cognitive Architecture
-    2023 - 2024 : Project Jarvis : Deterministic Speech Recognition : OS Automation & Keyword Parsers
-    2024 - 2025 : Nox Core : Cloud LLM Integration : Multi-Turn Conversational Bridge (Gemini API)
-    2025 - 2026 : Nox Alpha : Sovereign Server Infrastructure : CUDA Whisper Turbo + 3-Tier Multi-LLM Router + WebRTC AirDrop
-    2026 - Beyond : Alpha Gen 1 : Autonomous Deep Reasoning : Test-Time Compute + Formal Verification + Canvas Artifact Sandbox
-```
+---
 
-### 1️⃣ [Jarvis: Voice Automation & OS Controller](https://github.com/SkMasud18/Jarvis-Voice-Automation)
-> **The Genesis** — A deterministic Python voice assistant built with offline speech recognition and desktop operating system automation hooks (WhatsApp, Spotify, system telemetry, browser automation).
+### 2️⃣ [Nox Alpha Server: Distributed AI Architecture](https://github.com/SkMasud18/Nox-Alpha-Server)
+> **The Sovereign Production Stack (2025 - 2026)** — High-throughput distributed backend powering [NoxAssistant.com](https://noxassistant.com). Features custom FastAPI async gateway, hardware-accelerated CUDA Whisper Turbo STT (<800ms latency, native Bengali/Hindi/Urdu/English scripts), 3-Tier Multi-LLM Router, WebRTC P2P AirDrop, and sliding-window rate limiters.
+> * **Tech:** FastAPI, PyTorch CUDA 12, Faster-Whisper, Silero VAD, WebRTC DataChannels, Redis, Docker.
 
-### 2️⃣ [Nox Core: Cloud LLM Integration](https://github.com/SkMasud18/Nox-Core-Gemini)
-> **The LLM Evolution** — Transitioned from static keyword matching to multi-turn cognitive conversation using the Google Gemini API. Introduced real-time SSE streaming, dynamic system prompt governance, and intent classification.
+---
 
-### 3️⃣ [Nox Alpha: Sovereign Distributed Server](https://github.com/SkMasud18/Nox-Alpha-Server)
-> **The Autonomous Hybrid Platform** — Self-hosted enterprise server stack powering [NoxAssistant.com](https://noxassistant.com). Features custom FastAPI async gateway, CUDA-accelerated Whisper-large-v3-turbo STT (<800ms latency), 3-Tier Multi-LLM Router, WebRTC P2P AirDrop, and Redis token rate limiting.
+### 3️⃣ [Nox Core: Cloud Cognitive Bridge](https://github.com/SkMasud18/Nox-Core-Gemini)
+> **The LLM Paradigm Shift (2024 - 2025)** — Transitioned Nox from rule-based scripts to contextual generative dialogue. Engineered streaming SSE bridges with multi-turn memory buffers and real-time response generation.
+> * **Tech:** Python, Google Gemini SDK, SSE Streaming, Sliding Context Manager.
 
-### 4️⃣ [Alpha Gen 1: Deep Reasoning & Canvas Engine](https://github.com/SkMasud18/Alpha-Gen-1)
-> **Autonomous Cognitive Brain** — State-of-the-art test-time compute scaling engine. Integrates multi-step mathematical verification, code execution sandboxes, and interactive split-pane Canvas artifacts.
+---
+
+### 4️⃣ [Jarvis: Desktop Voice Automation](https://github.com/SkMasud18/Jarvis-Voice-Automation) *(The Genesis)*
+> **Deterministic OS Controller (2023 - 2024)** — The earliest iteration of Nox. Deterministic speech recognition pipeline with intent parsing and desktop automation dispatchers for YouTube, WhatsApp, and local system monitoring.
+> * **Tech:** Python, SpeechRecognition, PyTTSx3, OS Automation Hooks.
 
 ---
 
 ## 🛠️ Core Tech Stack & Tooling
 
 ```
-  Systems & AI Backend:   Python 3.11+, FastAPI, PyTorch, CTranslate2, CUDA 12+, Redis, PostgreSQL
-  Voice & Audio STT:      Faster-Whisper (Turbo / Large-v3), VAD (Silero), WebRTC, SoundFile
-  Frontend & Mobile:      TypeScript, React 19, Vite, TailwindCSS v4, Motion, Tauri v2, Capacitor
-  Infrastructure & Ops:   Linux (Ubuntu Server), Nginx Reverse Proxy, Docker, Systemd Daemons, Git
-  Security & Protocol:    AES-256 Memory Enclave, Sliding-Window Token Bucket, P2P WebRTC Signaling
+  Systems & AI Backend:   Python 3.11+, PyTorch 2.4, CUDA 12+, FastAPI, CTranslate2, Redis, PostgreSQL, Docker
+  Reasoning & Inference:  MCTS Search, Test-Time Compute (TTC), FlashAttention-3, Multi-Head Latent Attention (MLA)
+  Voice & Audio STT:      Faster-Whisper (Turbo / Large-v3), VAD (Silero), WebRTC DataChannels, FFmpeg
+  Frontend & Mobile:      TypeScript, React 19, Vite, TailwindCSS, Motion, WebSockets, SSE
 ```
 
 ---
 
-## 📊 Live Ecosystem & Public Benchmarks
+## 🌐 Production Ecosystem Links
 
-* 🌐 **Production Web Platform:** [noxassistant.com](https://noxassistant.com)
-* 🤗 **Hugging Face Model Repositories:**
-  * [SkMasud58/Nox-Alpha](https://huggingface.co/SkMasud58/Nox-Alpha) — Hybrid Autonomous Reasoning Model
-  * [SkMasud58/Alpha-Gen-1](https://huggingface.co/SkMasud58/Alpha-Gen-1) — Deep Cognitive Architecture
-* 🎮 **Interactive Playground:** [Nox Alpha Space](https://huggingface.co/spaces/SkMasud58/Nox-Alpha-Playground)
+* 🚀 **Nox Assistant Platform:** [noxassistant.com](https://noxassistant.com)
+* 💬 **AI Workspace & Chat:** [noxassistant.com/chat](https://noxassistant.com/chat/)
+* 💎 **Sovereign Tier Engine:** [noxassistant.com/pricing](https://noxassistant.com/pricing/)
+* 📂 **Encrypted Cloud Drive:** [noxassistant.com/drive](https://noxassistant.com/drive/)
+* 🤝 **Partner Console & RBAC:** [noxassistant.com/partner](https://noxassistant.com/partner/)
+* 🤗 **Hugging Face Hub:** [huggingface.co/SkMasud58](https://huggingface.co/SkMasud58)
+* 🎮 **Interactive Web Playground:** [Nox Alpha Playground](https://huggingface.co/spaces/SkMasud58/Nox-Alpha-Playground)
 
 ---
 
 <div align="center">
-  <sub>Engineered with precision by <b>Sk Masud Rahaman</b> • Falcon Intelligence © 2026</sub>
+  <sub>Engineered by <b>Sk Masud Rahaman</b> • <b>Falcon Intelligence</b></sub>
 </div>
