@@ -5,7 +5,7 @@
 *Architect of [NoxAssistant.com](https://noxassistant.com) — Sovereign Multi-Modal Cognitive Intelligence*
 
 <a href="https://noxassistant.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Principal+AI+Systems+Architect+%40+Falcon+Intelligence;Creator+of+NoxAssistant.com+%E2%80%94+Sovereign+Cognitive+Mesh;Specializing+in+Test-Time+Compute+%26+Deep+Reasoning;Hardware-Accelerated+CUDA+Audio+STT+%26+Distributed+Gateways" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=Founder+%26+Principal+AI+Systems+Architect+%40+Falcon+Intelligence;Creator+of+NoxAssistant.com+%E2%80%94+Sovereign+Cognitive+Mesh;Specializing+in+Test-Time+Compute+%26+Deep+Reasoning;Hardware-Accelerated+CUDA+Audio+STT+%26+Distributed+Gateways" alt="Typing SVG" />
 </a>
 
 <br/>
